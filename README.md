@@ -23,9 +23,9 @@ The main goals of the project are:
 
 ## Files
 
-- `simulation_study.R` — simulation study for block maxima, GEV fitting, and return-level comparisons under simulated SST data
-- `gev_model_fitting.R` — real-data analysis, covariate construction, candidate GEV models, AIC comparison, and final model fitting
-- `gev_diagnostics_return_levels.R` — diagnostic plots, return-level estimation, and exploratory dependence checks for selected locations
+- `01simulation_study.R` — simulation study for block maxima, GEV fitting, and return-level comparisons under simulated SST data
+- `02gev_model_fitting.R` — real-data analysis, covariate construction, candidate GEV models, AIC comparison, and final model fitting
+- `03gev_diagnostics_return_levels.R` — diagnostic plots, return-level estimation, and exploratory dependence checks for selected locations
 - `Allcodes.Rmd` — full R Markdown source containing the combined analysis workflow
 - `Sample_of_Work_1_GEV_Modelling_of_Extreme_SST.pdf` — polished report
 
